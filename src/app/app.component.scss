@@ -1,0 +1,16 @@
+
+
+:host {
+
+} 
+
+.header-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: var(--darkColor);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
